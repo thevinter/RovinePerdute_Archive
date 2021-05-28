@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<output>
+	<routes>
+		<route team="Tonathiu" cost="38070.0" cities="12">
+			<città id="0" nome="campo base"></città>
+			<città id="5" nome="Guaia"></città>
+			<città id="12" nome="Guaia"></città>
+			<città id="16" nome="Guaia"></città>
+			<città id="21" nome="Verolanuova"></città>
+			<città id="27" nome="Guapalupa"></città>
+			<città id="30" nome="Guaia"></città>
+			<città id="32" nome="Machu Picchu"></città>
+			<città id="37" nome="Rio"></città>
+			<città id="38" nome="Quetzacoatl"></città>
+			<città id="44" nome="Mixco Vieio"></città>
+			<città id="49" nome="Rovine Perdute"></città>
+		</route>
+
+		<route team="Metztli" cost="9345.0" cities="12">
+			<città id="0" nome="campo base"></città>
+			<città id="6" nome="Rio"></città>
+			<città id="8" nome="Qu'umarkaj"></città>
+			<città id="10" nome="Teotiguacan"></città>
+			<città id="16" nome="Guaia"></città>
+			<città id="21" nome="Verolanuova"></città>
+			<città id="27" nome="Guapalupa"></città>
+			<città id="33" nome="Quetzacoatl"></città>
+			<città id="40" nome="Qu'umarkaj"></città>
+			<città id="38" nome="Quetzacoatl"></città>
+			<città id="44" nome="Mixco Vieio"></città>
+			<città id="49" nome="Rovine Perdute"></città>
+		</route>
+	</routes>
+</output>
